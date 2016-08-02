@@ -17,7 +17,7 @@ Template : Blogger Starter Template
   </head>
   <body>
   <b:section id='header' showaddelement='yes'/>   
-	<h1 style="color:#ddd;text-align:center;"> Asslam-o-Aliakum, I am starter</h1>
+	<h1 style="color:#ddd;text-align:center;"> Assalam-o-Aliakum, I am starter</h1>
   </body>
   <!-- jQuery CDN -->
   <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js'/>
